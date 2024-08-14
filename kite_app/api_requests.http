@@ -1,0 +1,4 @@
+
+
+GET http://localhost:8000/api/deliveries/
+Authorization: Basic <base64_encoded_credentials>
